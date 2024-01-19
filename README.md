@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Coding</title>
 </head>
 <body>
     <h1 id="heading" style="color:blue">Coding Question Solutions with Python.👨‍💻🐍</h1>
